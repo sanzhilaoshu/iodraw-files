@@ -1,76 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="kzWymOwQg7jWTLtBXRSd">
-    <mxGraphModel dx="2037" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2-I4B-L_LAeykpynW5Fv-192" value="品种选育链" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="459" width="141" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="2-I4B-L_LAeykpynW5Fv-193" value="装备升级链" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="657" width="142" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="2-I4B-L_LAeykpynW5Fv-196" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=1;entryY=0.37;rounded=0;" edge="1" parent="1" target="2-I4B-L_LAeykpynW5Fv-192">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="692" y="409" />
-              <mxPoint x="692" y="434" />
-            </Array>
-            <mxPoint x="817" y="379.5899999999999" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2-I4B-L_LAeykpynW5Fv-199" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.36;entryX=0.53;entryY=1;rounded=0;" edge="1" parent="1" target="2-I4B-L_LAeykpynW5Fv-192">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="135" y="533" />
-            </Array>
-            <mxPoint x="676" y="575.6399999999999" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2-I4B-L_LAeykpynW5Fv-202" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.31;entryX=0.6;entryY=1;rounded=0;" edge="1" parent="1" target="2-I4B-L_LAeykpynW5Fv-192">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="155" y="731" />
-              <mxPoint x="155" y="533" />
-            </Array>
-            <mxPoint x="542" y="771.19" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2-I4B-L_LAeykpynW5Fv-205" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.41;entryX=0.56;entryY=1;rounded=0;" edge="1" parent="1" source="2-I4B-L_LAeykpynW5Fv-192">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="924" y="434" />
-              <mxPoint x="924" y="409" />
-            </Array>
-            <mxPoint x="913.8800000000001" y="384" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2-I4B-L_LAeykpynW5Fv-206" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.28;exitY=1;entryX=0;entryY=0.38;rounded=0;" edge="1" parent="1" source="2-I4B-L_LAeykpynW5Fv-192">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="63" y="533" />
-            </Array>
-            <mxPoint x="676" y="576.6199999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2-I4B-L_LAeykpynW5Fv-207" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=1;entryX=0;entryY=0.34;rounded=0;" edge="1" parent="1" source="2-I4B-L_LAeykpynW5Fv-192">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="83" y="533" />
-              <mxPoint x="83" y="731" />
-            </Array>
-            <mxPoint x="542" y="772.6600000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2-I4B-L_LAeykpynW5Fv-214" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.46;exitY=1;entryX=0;entryY=0.24;rounded=0;" edge="1" parent="1" source="2-I4B-L_LAeykpynW5Fv-192">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="115" y="533" />
-              <mxPoint x="115" y="979" />
-            </Array>
-            <mxPoint x="383" y="1015.7599999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
